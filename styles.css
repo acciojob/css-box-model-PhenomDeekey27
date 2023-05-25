@@ -52,11 +52,10 @@
     padding: 28px 3px;
 
 }
-.need{
+need {
     width: 300px;
-    background-color:rgb(173, 216, 230) (lightble);
-    border: 15px solid rgb(0, 0, 255) (blue);
+    background-color: rgb(173, 216, 230);
+    border: 15px solid rgb(0, 0, 255);
     padding: 50px;
     margin: 20px;
-
 }
