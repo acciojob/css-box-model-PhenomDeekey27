@@ -12,12 +12,12 @@
     display: flex;
     width: 88%;
     height: 76%;
-    border: 1px solid blue;
+    border:15px solid rgb(0, 0, 255);
     margin: 38px;
     align-content: center;
     align-items: center;
     justify-items: center;
-    background: blue;
+    background: rgb(173, 216, 230);
 }
 
 .box-2
@@ -50,5 +50,13 @@
 .box-3 p
 {
     padding: 28px 3px;
+
+}
+.need{
+    Width: 300px;
+    Background-color:rgb(173, 216, 230) (lightble);
+    Border: 15px solid rgb(0, 0, 255) (blue);
+    Padding: 50px;
+    Margin: 20px;
 
 }
