@@ -1,18 +1,16 @@
-
-/* Your CSS Code here. */
 .container
 {
-	width: 50%;
+	
+    width: 61%;
     margin: 33px 208px;
     height: 427px;
     border: 1px solid black;
-	
 	
 }
 .box-1
 {
     display: flex;
-    width: 300px;
+    width: 88%;
     height: 76%;
     border: 1px solid blue;
     margin: 38px;
@@ -25,10 +23,10 @@
 .box-2
 {
     display: flex;
-    width: 300px;
+    width: 77%;
     height: 76%;
     border: 1px solid blue;
-    margin: 36px;
+    margin: 64px;
     align-content: center;
     align-self: center;
     justify-content: center;
@@ -45,11 +43,12 @@
     justify-content: center;
     justify-self: center;
     border: 1px solid black;
-    margin: 36px
+    margin: 58px;
 }
 
 
 .box-3 p
 {
- padding: 28px;
+    padding: 28px 3px;
+
 }
