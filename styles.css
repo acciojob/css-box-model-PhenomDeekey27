@@ -12,7 +12,7 @@
 .box-1
 {
     display: flex;
-    width: 85%;
+    width: 300px;
     height: 76%;
     border: 1px solid blue;
     margin: 38px;
@@ -25,7 +25,7 @@
 .box-2
 {
     display: flex;
-    width: 86%;
+    width: 300px;
     height: 76%;
     border: 1px solid blue;
     margin: 36px;
