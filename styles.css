@@ -1,2 +1,55 @@
 
 /* Your CSS Code here. */
+.container
+{
+	width: 50%;
+    margin: 33px 208px;
+    height: 427px;
+    border: 1px solid black;
+	
+	
+}
+.box-1
+{
+    display: flex;
+    width: 85%;
+    height: 76%;
+    border: 1px solid blue;
+    margin: 38px;
+    align-content: center;
+    align-items: center;
+    justify-items: center;
+    background: blue;
+}
+
+.box-2
+{
+    display: flex;
+    width: 86%;
+    height: 76%;
+    border: 1px solid blue;
+    margin: 36px;
+    align-content: center;
+    align-self: center;
+    justify-content: center;
+    background: lightblue;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.box-3
+{
+    width: 300px;
+    height: 148px;
+    justify-content: center;
+    justify-self: center;
+    border: 1px solid black;
+    margin: 36px
+}
+
+
+.box-3 p
+{
+ padding: 28px;
+}
