@@ -51,13 +51,6 @@
 
 .box-3 p
 {
-    padding: 28px 3px;
+   margin:0;
 
-}
-need {
-    width: 300px;
-    background-color: rgb(173, 216, 230);
-    border: 15px solid rgb(0, 0, 255);
-    padding: 50px;
-    margin: 20px;
 }
