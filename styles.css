@@ -42,8 +42,10 @@
     height: 148px;
     justify-content: center;
     justify-self: center;
-    border: 1px solid black;
-    margin: 58px;
+	padding:50px;
+    border: 15px solid rgb(0, 0, 255);
+    margin: 20px;
+	background-color:rgb(173, 216, 230);
 }
 
 
